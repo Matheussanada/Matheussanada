@@ -9,6 +9,7 @@ I am a student of systems analysis and development and I want to become a front 
  - HTML
  - CSS
  - JAVACSRIPT 
+ - C++
 
 
 ## Follow me on social media👇
